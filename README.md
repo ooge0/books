@@ -1,6 +1,7 @@
 # Books
 ## IT
 * Tanenbaum - Computer Networks_6th Edition_2023_960 pages_Pearson.pdf (RU)
+  
   https://github.com/ooge0/books/blob/master/content/Tanenbaum%20-%20Computer%20Networks_6th%20Edition_2023_960%20pages_Pearson.pdf
   
 ![image](https://github.com/ooge0/books/assets/16800412/5992f7ac-a39f-4e8f-b073-80993f6f9f93)
@@ -55,7 +56,8 @@
 
   https://github.com/ooge0/books/blob/master/content/PYTHON_PROGRAMMING_%5BR17A0554%5D_LECTURE_NOTES_B.TECH_III_YEAR_%E2%80%93_II_SEM_(R17)_(2019-20).pdf
 
-![image](https://github.com/ooge0/books/assets/16800412/b6acde03-c909-46d1-99dd-e2b84cc6c8b3)
+  ![image](https://github.com/ooge0/books/assets/16800412/b6acde03-c909-46d1-99dd-e2b84cc6c8b3)
+
 
 * Python-Cheat-Sheet__Mosh_Hamedani.pdf (ENG)
 
@@ -66,9 +68,24 @@
 
 * Python-Data-structures-cheat-sheet__intellipaat.pdf (ENG)
 
- https://github.com/ooge0/books/blob/master/content/Python-Data-structures-cheat-sheet__intellipaat.pdf
+  https://github.com/ooge0/books/blob/master/content/Python-Data-structures-cheat-sheet__intellipaat.pdf
     
- ![image](https://github.com/ooge0/books/assets/16800412/4285cb34-0550-4330-ab57-6830ba4ca134)
+  ![image](https://github.com/ooge0/books/assets/16800412/4285cb34-0550-4330-ab57-6830ba4ca134)
+
+* An_Introduction_to_Neural_Networks._James_A._Anderson_1996.pdf
+
+  https://icedrive.net/s/tjfXNT1NB72YZiCZwGXz1XWRTkj1
+
+  ![image](https://github.com/ooge0/books/assets/16800412/a7afeda5-4025-4c6a-812f-f87cbe96e128)
+
+
+
+* Neural_Networks_Lecture._M.Hajek.2005.pdf
+
+  https://github.com/ooge0/books/blob/master/content/Neural_Networks_Lecture._M.Hajek.2005.pdf
+
+  ![image](https://github.com/ooge0/books/assets/16800412/5b7cf878-8984-45a0-a988-72bf27cc2ef9)
+
 
 
 ## Social
