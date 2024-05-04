@@ -1,5 +1,5 @@
 # Books
-## IT
+## Computer Science & Information Technologies & Neural Networks & Machine Learning
 * Tanenbaum - Computer Networks_6th Edition_2023_960 pages_Pearson.pdf (RU)
   
   https://github.com/ooge0/books/blob/master/content/Tanenbaum%20-%20Computer%20Networks_6th%20Edition_2023_960%20pages_Pearson.pdf
