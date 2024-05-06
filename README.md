@@ -15,7 +15,7 @@
  |10| Python-Data-structures-cheat-sheet__intellipaat.pdf |Computer Science|ENG|PDF|[Python-Data-structures-cheat-sheet__intellipaat.pdf]( https://github.com/ooge0/books/blob/master/content/Python-Data-structures-cheat-sheet__intellipaat.pdf)|![image](https://github.com/ooge0/books/assets/16800412/4285cb34-0550-4330-ab57-6830ba4ca134)
  |11| An_Introduction_to_Neural_Networks._James_A._Anderson_1996|Neural_Networks|ENG|PDF|[An_Introduction_to_Neural_Networks._James_A._Anderson_1996.pdf](https://icedrive.net/s/tjfXNT1NB72YZiCZwGXz1XWRTkj1)|![image](https://github.com/ooge0/books/assets/16800412/a7afeda5-4025-4c6a-812f-f87cbe96e128)
  |12| Neural_Networks_Lecture._M.Hajek.2005| Neural Networks|ENG|PDF|[Neural_Networks_Lecture._M.Hajek.2005.pdf](https://github.com/ooge0/books/blob/master/content/Neural_Networks_Lecture._M.Hajek.2005.pdf)|![image](https://github.com/ooge0/books/assets/16800412/5b7cf878-8984-45a0-a988-72bf27cc2ef9)
-|13| Linux_Professional_Institute-Linux_Essentials-v.1.6_Learning_Materials_ENG| Computer Science|ENG|PDF|[Linux_Professional_Institute-Linux_Essentials-v.1.6_Learning_Materials_ENG.pdf](https://github.com/ooge0/books/blob/master/content/LPI-Learning-Material-010-160-en.pdf)|![image](https://github.com/ooge0/books/assets/16800412/24bc4d91-1974-4f48-8cdd-4f9853fa9bba)
+|13| Linux_Professional_Institute-Linux_Essentials-v.1.6_Learning_Materials_ENG| Computer Science|ENG|PDF|[Linux_Professional_Institute-Linux_Essentials-v.1.6_Learning_Materials_ENG.pdf](https://github.com/ooge0/books/blob/master/content/Linux_Professional_Institute-Linux_Essentials-v.1.6_Learning_Materials_ENG.pdf)|![image](https://github.com/ooge0/books/assets/16800412/24bc4d91-1974-4f48-8cdd-4f9853fa9bba)
 
 
  
