@@ -1,5 +1,5 @@
 # Books
-## Computer Science & Networking & Information & Web crawling & Technologies & AI & Neural Networks & Machine Learning
+## Computer Science & Networking & Information Technologies & Web crawling & AI & Neural Networks & Machine Learning
 
 |#| Book name |Book category |book language | format|link to the file| QR code|
 | --------| -------- | -------- | ------- | -------- | ------- | -------- | 
